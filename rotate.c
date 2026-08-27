@@ -1,6 +1,6 @@
 #include "major1.h"
 
-// Gloria Ukattah, CSCE 3600, 3/6/2026
+// CSCE 3600, 3/6/2026
 // This program uses a 32-bit integer to do a bitwise rotate-right operation.
 
 unsigned int rotate_right(unsigned int num, int positions) {
